@@ -54,7 +54,7 @@ The Uptime Checker Service is a simple PHP script designed to monitor the uptime
 5. **Run the script**:
    - You can run the script via the command line:
    ```bash
-   php uptime.php
+   php cron.php
    ```
 
 ## Usage
