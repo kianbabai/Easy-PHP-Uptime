@@ -1,4 +1,4 @@
-# Uptime Checker Service
+# Easy PHP Uptime intergrate with TG bot
 
 ## Description
 
