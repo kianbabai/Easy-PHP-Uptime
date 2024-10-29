@@ -22,16 +22,16 @@ The Uptime Checker Service is a simple PHP script designed to monitor the uptime
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/uptime-checker.git
+   git clone https://github.com/kianbabai/Easy-PHP-Uptime.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd uptime-checker
+   cd Easy-PHP-Uptime
    ```
 
 3. **Configure your settings**:
-   - Open the `index.php` file.
+   - Open the `cron.php` file.
    - Replace the placeholders for `TG_CHATID`, `TG_BOT_TOKEN`, and `GOOGLE_PROXY` with your actual Telegram bot token, chat ID, and Google Apps Script URL.
 
    ```php
@@ -44,7 +44,7 @@ The Uptime Checker Service is a simple PHP script designed to monitor the uptime
    ```php
    $urls = [
        'https://www.example1.com',
-       'https://www.example2.com',Navigate to the project directory:
+       'https://www.example2.com',//Navigate to the project directory:
 
 
        // Add more URLs as needed
@@ -97,7 +97,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ### Notes:
-- Make sure to replace `yourusername` in the clone URL with your actual GitHub username.
 - You can save this content directly as `README.md` in your project repository. 
 
 Let me know if you need any further modifications!
